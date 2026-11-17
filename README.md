@@ -5,6 +5,11 @@ Pesquiso **movimentos socioespaciais e socioterritoriais urbanos** e sua relaç�
 
 *Doctorando en Geografía (FCT/UNESP, Brasil). Investigo movimientos socioespaciales y socioterritoriales urbanos en Brasil y la Argentina.*
 
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-0A6E3C?style=flat-square)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8672033Z9)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6166--0059-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6166-0059)
+[![Google Scholar](https://img.shields.io/badge/Google%20Acadêmico-perfil-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=3ILdfVgAAAAJ&hl=pt-BR)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-perfil-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Wilians-Ventura-Ferreira-Souza)
+[![FAPESP](https://img.shields.io/badge/BV%20FAPESP-pesquisador-005A9C?style=flat-square)](https://bv.fapesp.br/pt/pesquisador/700787/wilians-ventura-ferreira-souza)
 [![DATALUTA Argentina](https://img.shields.io/badge/Base%20interativa-DATALUTA%20Argentina%202024-1D5994?style=flat-square)](https://wiliansventura98-collab.github.io/site-acoes/)
 
 ---
